@@ -11,7 +11,7 @@ Agregue el Idioma Portugues con sus respectivas salidas en el metodo imprimir.
 
 ### Test
 
-Tambien agregue un nuevo metodo en testing para probar las nuevas formas y el nuevo lenguaje. El testeo me dio OK.
+Tambien agregue un nuevo metodo en testing para probar las nuevas formas y el nuevo idioma. El testeo me dio OK.
 
 
 **¡¡Saludos Cordiales!!**
